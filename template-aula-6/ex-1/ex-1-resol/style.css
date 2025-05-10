@@ -1,0 +1,17 @@
+h1, h2, h3, h4, h5, h6, p {
+    color: orange;
+}
+
+.textos-com-background > h2 {
+    background-color: yellow;
+}
+
+#texto-com-outra-cor {
+    color: green;
+}
+
+/* Outra possibilidade para deixar o título verde */
+
+/* .textos-com-background > h2:last-child {
+    color: green;
+} */

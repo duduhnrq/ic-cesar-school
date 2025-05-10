@@ -1,0 +1,16 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    color: orange;
+}
+
+.textos-com-background h2 {
+    background-color: yellow;
+}
+
+#texto-com-outra-cor {
+    color: green;
+}
